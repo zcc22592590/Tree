@@ -7,8 +7,8 @@ int main()
 	int s = 10;
 	
 	for(i=0; i<=10; i++){
-		for(j=0; j<=s; j++){
-			printf(" ");
+		for(j=0; j<=s; j++){	
+			printf(" ");	//樹葉
 		}
 		s--;
 		
@@ -20,7 +20,7 @@ int main()
 	}
 	
 	for(i=0; i<=4; i++){
-		for(j=0; j<=8; j++){
+		for(j=0; j<=8; j++){	//木頭
 			printf(" ");
 		}
 		
@@ -31,7 +31,7 @@ int main()
 		printf("\n");
 	}
 	
-	for(j=0; j<8; j++){
+	for(j=0; j<8; j++){		//樹的底座
 		printf(" ");
 	}
 	for(j=0; j<=6; j++){
