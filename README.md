@@ -2,6 +2,8 @@
 Tree(for loop practice)
 
 output:
+
+
            *
           ***
          *****
